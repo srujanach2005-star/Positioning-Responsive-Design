@@ -6,6 +6,10 @@ The position property controls how elements are placed on the page.
 
 # 🔹 1. position: static (Default)
 ![Day-7 Output](./img/1.png)
+![Day-7 Output](./img/2.png)
+![Day-7 Output](./img/3.png)
+![Day-7 Output](./img/4.png)
+
 
 
 

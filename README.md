@@ -4,5 +4,6 @@ The position property controls how elements are placed on the page.
 
 # There are 4 main values:
 # 🔹 1. position: static (Default)
-![Uploading image.png…]()
+![Day-7 Output](img/1.png)
+
 
